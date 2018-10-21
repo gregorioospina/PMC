@@ -100,16 +100,16 @@ body {
         background: #f3d4b7;
         transition: all 0.5s ease; }
     .steps ul:before {
-      content: "Billing Details";
+      content: "Informacion Basica";
       font-size: 22px;
       font-family: "Poppins-SemiBold";
       color: #333;
       top: -38px;
       position: absolute; }
     .steps ul.step-2:before {
-      content: "Additional Information"; }
+      content: "Informacion a Analizar"; }
     .steps ul.step-3:before {
-      content: "Your Order"; }
+      content: "Resultados"; }
     .steps ul.step-4:before {
       content: "Billing Method"; }
 
